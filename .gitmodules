@@ -1,9 +1,9 @@
 [submodule "VncSharpCore"]
 	path = VncSharpCore
-	url = https://github.com/1Remote/VncSharpCore.git
+	url = git@github.com:1Remote/VncSharpCore.git
 [submodule "Shawn.Utils"]
 	path = Shawn.Utils
-	url = https://github.com/VShawn/Shawn.Utils.git
+	url = git@github.com:VShawn/Shawn.Utils.git
 [submodule "Dragablz"]
 	path = Dragablz
-	url = https://github.com/1Remote/Dragablz.git
+	url = git@github.com:1Remote/Dragablz.git
